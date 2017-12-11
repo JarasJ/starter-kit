@@ -14,7 +14,8 @@ h1 {
   padding-top: 50px; }
 
 a {
-  text-decoration: none; }
+  text-decoration: none;
+  color: #f1f1f2; }
   a:visited {
     color: #f1f1f2; }
 
